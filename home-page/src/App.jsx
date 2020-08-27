@@ -11,7 +11,7 @@ import Chat from "chat/Chat";
 const App = () => (
     <Container>
         
-        <h1>Chat App</h1>
+        <h1>Chat App </h1>
         <Chat />
     </Container>
 );
